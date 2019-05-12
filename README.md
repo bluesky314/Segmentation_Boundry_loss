@@ -1,4 +1,4 @@
-# Segmentation_Boundry_loss
+# Segmentation Boundry loss
 
 Paper: Boundary loss for highly unbalanced segmentation : https://arxiv.org/abs/1812.07032
 
